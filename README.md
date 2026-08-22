@@ -1,30 +1,3 @@
-.github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: nikhildataops
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 <div align="center">
 
 <!-- Animated gradient header banner -->
@@ -91,7 +64,7 @@ jobs:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildataops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
@@ -103,7 +76,7 @@ jobs:
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nikhildataops&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
 </p>
 
 <br/>
@@ -126,5 +99,44 @@ The snake animation above requires a one-time GitHub Actions setup — instructi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
+---
+
+## ⚙️ Setup Guide (for you, Nikhil — remove this section once done)
+
+1. **Create the repo**: Make a new GitHub repo named exactly `nikhildataops` (must match your username) and add this file as `README.md`. This makes it your special profile README.
+
+2. **Enable the Snake Animation** (the "🐍 Contribution Snake" section above):
+   - In your `nikhildataops` repo, create a new file `.github/workflows/snake.yml` with this content:
+     ```yaml
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+       push:
+         branches: [ main ]
+
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         permissions:
+           contents: write
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: nikhildataops
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
              env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ```
+   - Push it, then run the workflow once manually from the **Actions** tab. It will auto-generate the snake SVG.
+
+3. **Stats not loading?** These cards are generated live by free community-hosted services (Vercel). They sometimes take a few seconds on first load, or briefly rate-limit under heavy traffic — refresh the page after a minute. If a specific card stays broken for more than a day, right-click it → "Open image in new tab" to see the exact error message, and send it to me.
+
+4. **Want a portfolio, Twitter/X, or other links added?** Send them over and I will drop in matching badges.
+

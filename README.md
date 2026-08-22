@@ -62,9 +62,7 @@
   <img src="https://raw.githubusercontent.com/nikhildataops/nikhildataops/main/github-metrics.svg" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhildataops&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+
 
 <br/>
 

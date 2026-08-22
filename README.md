@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- Animated gradient header banner -->
@@ -61,12 +59,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhildataops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildataops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://raw.githubusercontent.com/nikhildataops/nikhildataops/main/github-metrics.svg" width="90%"/>
 </p>
 
 <p align="center">
@@ -101,3 +94,68 @@ The snake animation above requires a one-time GitHub Actions setup — instructi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
+---
+
+## ⚙️ Setup Guide (for you, Nikhil — remove this section once done)
+
+1. **Create the repo**: Make a new GitHub repo named exactly `nikhildataops` (must match your username) and add this file as `README.md`. This makes it your special profile README.
+
+2. **Enable the Snake Animation** (the "🐍 Contribution Snake" section above):
+   - In your `nikhildataops` repo, create a new file `.github/workflows/snake.yml` with this content:
+     ```yaml
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+       push:
+         branches: [ main ]
+
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         permissions:
+           contents: write
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: nikhildataops
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ```
+   - Push it, then run the workflow once manually from the **Actions** tab. It will auto-generate the snake SVG.
+
+3. **Enable the GitHub Stats card** (self-hosted, same technique as the snake):
+   - Create `.github/workflows/metrics.yml` in your repo with this content:
+     ```yaml
+     name: Metrics
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+       push:
+         branches: [ main ]
+
+     jobs:
+       metrics:
+         runs-on: ubuntu-latest
+         permissions:
+           contents: write
+         steps:
+           - uses: lowlighter/metrics@latest
+             with:
+               filename: github-metrics.svg
+               token: ${{ secrets.GITHUB_TOKEN }}
+               user: nikhildataops
+               template: classic
+               base: header, activity, community, repositories, metadata
+               config_timezone: Asia/Kolkata
+               plugin_languages: yes
+               plugin_languages_analysis_timeout: 15
+     ```

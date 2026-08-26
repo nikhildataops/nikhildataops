@@ -81,19 +81,6 @@ My current focus is on building modern web applications, strengthening **Data St
 | 🤖 Future Focus | Artificial Intelligence |
 | 🌍 Collaboration | Open Source |
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikhildataops&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildataops&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="41%"/>
-
-</div>
-
----
 
 # 🔥 Daily Coding Streak
 
@@ -107,15 +94,7 @@ My current focus is on building modern web applications, strengthening **Data St
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 

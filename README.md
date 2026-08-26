@@ -1,50 +1,68 @@
 <div align="center">
 
-<!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:1a1a4e,100:0f0c29&height=260&section=header&text=Nikhil%20Yadav&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Full%20Stack%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express.js%20%E2%80%A2%20React.js&descAlignY=52&descSize=19&descColor=e6e6e6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=260&section=header&text=Nikhil%20Yadav&fontSize=60&fontColor=00FFA3&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20DSA%20%E2%80%A2%20AI&descAlignY=52&descSize=19&descColor=e6e6e6" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Building+with+the+MERN+Stack;Sharpening+Problem-Solving+Skills+through+DSA;Preparing+to+Explore+Artificial+Intelligence;Computer+Science+Undergraduate+%7C+2nd+Year" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+DSA+%E2%80%A2+AI;Building+Real-World+Projects;2nd+Year+CS+Undergraduate" alt="Typing SVG" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=700&color=FF2E92&center=true&vCenter=true&width=600&lines=Open+to+Collaborate;Practicing+DSA+in+Java;Building+MERN+Projects;Exploring+AI+Next" alt="Status Ticker" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Actively%20Learning-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/LOCATION-Bareilly%2C%20India-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-FF6EC7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-Actively%20Learning-00FFA3?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOCATION-Bareilly%2C%20India-FF2E92?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-00FFA3?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/nikhildataops?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF2E92&labelColor=0D1117"/>
 
 </div>
 
 <br/>
 
-## 🧑‍💻 Profile Summary
+## 🧑‍💻 About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I am a second-year Computer Science undergraduate with a strong interest in building scalable, real-world web applications. My current focus is developing proficiency across the **MERN stack**, with hands-on practice in **Node.js**, **Express.js**, and **React.js**. Alongside application development, I am strengthening my problem-solving foundation through consistent **Data Structures and Algorithms (DSA)** practice in Java, and preparing to expand into **Artificial Intelligence** as a long-term area of specialization.
-
-I approach learning methodically — moving from core language fundamentals to frameworks, tooling, and production-oriented practices — with the goal of becoming a well-rounded full stack engineer.
+- 🎓 2nd-Year Computer Science Undergraduate
+- 💻 Building proficiency in the **MERN Stack**
+- 🧠 Consistent **DSA practice in Java**
+- 🤖 Next up: **Artificial Intelligence**
+- 🎯 Goal: well-rounded **Full Stack Engineer**
 
 </td>
 <td width="40%" valign="top">
 
-**Quick Facts**
 | | |
 |---|---|
-| 🎓 Education | B.Tech CSE, 2nd Year |
-| 📍 Location | Bareilly, Uttar Pradesh, India |
-| 💼 Career Goal | Full Stack Developer |
-| 🔭 Currently Building | MERN Stack Projects |
-| 🌱 Currently Learning | MongoDB, React.js, DSA |
-| 🤖 Future Interest | Artificial Intelligence |
+| 🎓 Education | B.Tech CSE, 2nd Yr |
+| 📍 Location | Bareilly, UP, India |
+| 💼 Goal | Full Stack Developer |
+| 🔭 Building | MERN Projects |
+| 🌱 Learning | MongoDB • React • DSA |
+| 🤖 Next | Artificial Intelligence |
 | 📫 Contact | yadavnikhil97616@gmail.com |
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<details>
+<summary><b>💬 Quick Q&A — click to expand</b></summary>
+<br>
+
+| | |
+|---|---|
+| 💻 **Primary Stack** | MERN (MongoDB • Express • React • Node) |
+| 🧠 **Practicing** | DSA in Java |
+| 🎯 **Career Goal** | Full Stack Developer |
+| 🤖 **Next Frontier** | Artificial Intelligence |
+| 🎓 **Currently** | 2nd Year, B.Tech CSE |
+
+</details>
 
 <br/>
 
@@ -60,72 +78,27 @@ I approach learning methodically — moving from core language fundamentals to f
 
 <br/>
 
-## 🛠️ Technical Skill Set
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Core Languages & Foundations**
-
+**Core Languages**
 <img src="https://skillicons.dev/icons?i=c,java,python,mysql&theme=dark" />
 
-**Web Development**
-
+**Web Fundamentals**
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-**Currently Expanding Into**
-
+**MERN Stack (Learning)**
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb&theme=dark" />
 
 **Tools & Workflow**
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
+<br/><br/>
+
+🟢 `Intermediate` C • Java • Python • HTML • CSS • JS &nbsp;&nbsp; 🟡 `Building Fundamentals` Node.js • Express • React &nbsp;&nbsp; 🔴 `Getting Started` MongoDB
+
 </div>
-
-<br/>
-
-<table align="center">
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-<th>Proficiency</th>
-</tr>
-<tr>
-<td>Programming Languages</td>
-<td>C, Java, Python</td>
-<td>▰▰▰▰▱ Intermediate</td>
-</tr>
-<tr>
-<td>Web Fundamentals</td>
-<td>HTML, CSS, JavaScript</td>
-<td>▰▰▰▰▱ Intermediate</td>
-</tr>
-<tr>
-<td>Databases</td>
-<td>MySQL</td>
-<td>▰▰▰▱▱ Working Knowledge</td>
-</tr>
-<tr>
-<td>Backend (Learning)</td>
-<td>Node.js, Express.js</td>
-<td>▰▰▱▱▱ Building Fundamentals</td>
-</tr>
-<tr>
-<td>Frontend (Learning)</td>
-<td>React.js</td>
-<td>▰▰▱▱▱ Building Fundamentals</td>
-</tr>
-<tr>
-<td>Database (Learning)</td>
-<td>MongoDB</td>
-<td>▰▱▱▱▱ Getting Started</td>
-</tr>
-<tr>
-<td>Problem Solving</td>
-<td>DSA with Java</td>
-<td>▰▰▰▱▱ Consistent Practice</td>
-</tr>
-</table>
 
 <br/>
 
@@ -137,11 +110,11 @@ I approach learning methodically — moving from core language fundamentals to f
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=FF2E92&currStreakLabel=00FFA3" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhildataops&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=nikhildataops&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -150,7 +123,7 @@ I approach learning methodically — moving from core language fundamentals to f
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFA3&line=FF2E92&point=ffffff&area=true&area_color=00FFA3" width="100%"/>
 </div>
 
 <br/>
@@ -163,15 +136,21 @@ I approach learning methodically — moving from core language fundamentals to f
 
 <br/>
 
-## 🎯 Current Objectives
+## 🗺️ Learning Roadmap
 
-- [x] Build a solid foundation in core programming languages
-- [x] Learn HTML, CSS, and JavaScript fundamentals
-- [ ] Achieve working proficiency in the MERN stack
-- [ ] Complete a structured DSA course in Java
-- [ ] Ship 3–5 full stack portfolio projects
-- [ ] Begin foundational study in Artificial Intelligence / Machine Learning
-- [ ] Contribute to open-source projects
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+
+- [x] Core programming foundations (C, Java, Python)
+- [x] HTML, CSS & JavaScript fundamentals
+- [ ] Working proficiency in the MERN stack
+- [ ] Structured DSA course in Java
+- [ ] 3–5 full stack portfolio projects
+- [ ] Foundational AI / ML study
+- [ ] First open-source contribution
+
+</details>
 
 <br/>
 
@@ -179,13 +158,14 @@ I approach learning methodically — moving from core language fundamentals to f
 
 ## 📬 Let's Connect
 
-I am open to learning opportunities, collaborative projects, and conversations with fellow developers. Feel free to reach out through any of the channels above.
+📌 Open to: Learning Opportunities • Collaborative Projects • Open Source • Dev Conversations
 
-<img src="https://komarev.com/ghpvc/?username=nikhildataops&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nikhildataops&label=Profile%20Views&color=00FFA3&style=for-the-badge"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=140&section=footer" width="100%"/>
 
 ---
+
 

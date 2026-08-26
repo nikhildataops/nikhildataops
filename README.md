@@ -1,171 +1,240 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=260&section=header&text=Nikhil%20Yadav&fontSize=60&fontColor=00FFA3&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20DSA%20%E2%80%A2%20AI&descAlignY=52&descSize=19&descColor=e6e6e6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:050816&height=240&section=header&text=NIKHIL%20YADAV&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20%7C%20AI&descAlignY=58&descSize=18&descColor=CBD5E1" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+DSA+%E2%80%A2+AI;Building+Real-World+Projects;2nd+Year+CS+Undergraduate" alt="Typing SVG" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=700&color=FF2E92&center=true&vCenter=true&width=600&lines=Open+to+Collaborate;Practicing+DSA+in+Java;Building+MERN+Projects;Exploring+AI+Next" alt="Status Ticker" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-Actively%20Learning-00FFA3?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/LOCATION-Bareilly%2C%20India-FF2E92?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-00FFA3?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/nikhildataops?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF2E92&labelColor=0D1117"/>
-
-</div>
-
-<br/>
-
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 2nd-Year Computer Science Undergraduate
-- 💻 Building proficiency in the **MERN Stack**
-- 🧠 Consistent **DSA practice in Java**
-- 🤖 Next up: **Artificial Intelligence**
-- 🎯 Goal: well-rounded **Full Stack Engineer**
-
-</td>
-<td width="40%" valign="top">
-
-| | |
-|---|---|
-| 🎓 Education | B.Tech CSE, 2nd Yr |
-| 📍 Location | Bareilly, UP, India |
-| 💼 Goal | Full Stack Developer |
-| 🔭 Building | MERN Projects |
-| 🌱 Learning | MongoDB • React • DSA |
-| 🤖 Next | Artificial Intelligence |
-| 📫 Contact | yadavnikhil97616@gmail.com |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>💬 Quick Q&A — click to expand</b></summary>
-<br>
-
-| | |
-|---|---|
-| 💻 **Primary Stack** | MERN (MongoDB • Express • React • Node) |
-| 🧠 **Practicing** | DSA in Java |
-| 🎯 **Career Goal** | Full Stack Developer |
-| 🤖 **Next Frontier** | Artificial Intelligence |
-| 🎓 **Currently** | 2nd Year, B.Tech CSE |
-
-</details>
-
-<br/>
-
-## 🌐 Professional Links
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhildataops)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavnikhil97616@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhildataops)
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Core Languages**
-<img src="https://skillicons.dev/icons?i=c,java,python,mysql&theme=dark" />
-
-**Web Fundamentals**
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-**MERN Stack (Learning)**
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb&theme=dark" />
-
-**Tools & Workflow**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Building+Scalable+Web+Applications;Practicing+DSA+with+Java;Exploring+Artificial+Intelligence;Turning+Ideas+into+Real-World+Projects" alt="Typing Animation"/>
 
 <br/><br/>
 
-🟢 `Intermediate` C • Java • Python • HTML • CSS • JS &nbsp;&nbsp; 🟡 `Building Fundamentals` Node.js • Express • React &nbsp;&nbsp; 🔴 `Getting Started` MongoDB
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00E5FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/DSA-JAVA-7C3AED?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/AI-EXPLORING-00E5FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-7C3AED?style=for-the-badge&labelColor=050816"/>
 
 </div>
-
-<br/>
-
-## 📊 Performance Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nikhildataops/nikhildataops/main/github-metrics.svg" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=dark&hide_border=true&background=0D1117&ring=00FFA3&fire=FF2E92&currStreakLabel=00FFA3" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhildataops&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFA3&line=FF2E92&point=ffffff&area=true&area_color=00FFA3" width="100%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/nikhildataops/nikhildataops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-## 🗺️ Learning Roadmap
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-
-- [x] Core programming foundations (C, Java, Python)
-- [x] HTML, CSS & JavaScript fundamentals
-- [ ] Working proficiency in the MERN stack
-- [ ] Structured DSA course in Java
-- [ ] 3–5 full stack portfolio projects
-- [ ] Foundational AI / ML study
-- [ ] First open-source contribution
-
-</details>
-
-<br/>
-
-<div align="center">
-
-## 📬 Let's Connect
-
-📌 Open to: Learning Opportunities • Collaborative Projects • Open Source • Dev Conversations
-
-<img src="https://komarev.com/ghpvc/?username=nikhildataops&label=Profile%20Views&color=00FFA3&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=140&section=footer" width="100%"/>
 
 ---
 
+## 👨‍💻 About Me
 
+I'm a **B.Tech Computer Science undergraduate** focused on becoming a strong **Full Stack Developer** with solid problem-solving fundamentals.
+
+My current focus is on building modern web applications, strengthening **Data Structures & Algorithms with Java**, and gradually expanding into **Artificial Intelligence**.
+
+### 🎯 Current Focus
+
+- 💻 Full Stack Web Development
+- ⚡ MERN Stack
+- 🧠 Data Structures & Algorithms with Java
+- 🗄️ Database Development
+- 🚀 Real-World Projects
+- 🤖 Artificial Intelligence
+- 🌍 Open Source & Collaboration
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python&theme=dark"/>
+
+</div>
+
+### 🌐 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+
+</div>
+
+### ⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+
+</div>
+
+### 🛠️ Tools & Workflow
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+| Area | Focus |
+|---|---|
+| ⚡ Full Stack | MERN Development |
+| 🧠 DSA | Java |
+| 🎨 Frontend | JavaScript • React |
+| ⚙️ Backend | Node.js • Express |
+| 🗄️ Database | MongoDB • MySQL |
+| 🤖 Future Focus | Artificial Intelligence |
+| 🌍 Collaboration | Open Source |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikhildataops&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildataops&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="41%"/>
+
+</div>
+
+---
+
+# 🔥 Daily Coding Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nikhildataops&theme=dark&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
+
+</div>
+
+> **Consistency over intensity. Every commit represents another step toward becoming a better engineer.**
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildataops&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikhildataops/nikhildataops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikhildataops&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+# 🗺️ Developer Roadmap
+
+```text
+                    ┌─────────────────────┐
+                    │  COMPUTER SCIENCE   │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        Programming          DSA          Web Development
+        C • Java • Python    Java          HTML • CSS • JS
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                         MERN STACK
+                               │
+                 ┌─────────────┼─────────────┐
+                 ▼             ▼             ▼
+              React         Node.js      MongoDB
+                               │
+                               ▼
+                       Full Stack Projects
+                               │
+                               ▼
+                         AI / ML
+                               │
+                               ▼
+                    Advanced Engineering
+```
+
+### Progress
+
+- [x] Programming Fundamentals
+- [x] C Fundamentals
+- [x] Java Fundamentals
+- [x] Python Fundamentals
+- [x] HTML & CSS
+- [x] JavaScript Fundamentals
+- [ ] Advanced JavaScript
+- [ ] React
+- [ ] Node.js
+- [ ] Express.js
+- [ ] MongoDB
+- [ ] Full Stack Projects
+- [ ] Advanced DSA
+- [ ] Open Source Contributions
+- [ ] Artificial Intelligence
+
+---
+
+# 💡 Development Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe consistent practice and real-world implementation are the foundation of becoming a better software engineer.
+
+My goal is not simply to learn technologies, but to understand how they work and apply them to solve practical problems.
+
+---
+
+# 🚀 What I'm Building
+
+- 🌐 Full Stack Web Applications
+- 🧠 DSA Problem-Solving Repository
+- ⚡ MERN Stack Projects
+- 🤖 AI-based Projects
+- 📚 Programming & Development Notes
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nikhildataops">
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikhildataops">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yadavnikhil97616@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=nikhildataops&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building Today. Engineering Tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:050816&height=130&section=footer" width="100%"/>
+
+</div>
